@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+permalink: /teaching/
 ---
 
 ## [**Master in Particle Physics and Physics of the Cosmos**](https://masterphyparcos.ifca.es/)
