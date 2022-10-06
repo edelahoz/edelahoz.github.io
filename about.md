@@ -9,4 +9,4 @@ I am a PhD student in <span style="color:#2ecc71">Observational Cosmology</span>
 I am part of [**LiteBIRD**](https://www.litebird-europe.eu/) and [**QUIJOTE**](https://research.iac.es/proyecto/quijote/pages/en/home.php) collaborations, where I work on  <span style="color:#2ecc71">component separation</span>, characterization of <span style="color:#2ecc71">astrophysical foregrounds</span>, the study of <span style="color:#2ecc71">cosmic birefringence</span>, mitigation of <span style="color:#2ecc71">systematics</span>, and <span style="color:#2ecc71">CMB anomalies</span>. I teach half of the M1992: Programming in a Scientific Environment course of the [**Master in Particle Physics and Physics of the Cosmos**](https://masterphyparcos.ifca.es/). Moreover, I contribute to some [**outreach activities**]({{ site.url }}/outreach/) at IFCA.
 
 
-You can find my CV, as a PDF file   [**here**]({{ site.url }}/assets/cv.pdf).
+You can find my CV, as a PDF file   [**here**]({{ site.url }}/assets/CV.pdf).
