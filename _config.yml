@@ -1,0 +1,48 @@
+title: Home
+description: My personal website. The site includes my publication list, CV, research interests and current projects.
+author: Elena de la Hoz
+avatar: /photo.jpg
+email: delahoz@ifca.unican.es
+location: IFCA, Santander
+
+skin : midnight
+
+subscribe: False
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+#paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+  - code.md
+  - more.md
+
+# Jekyll SEO Tag (Optional)
+# =========================
+#twitter:
+#  username: ngzhio
+#  card: summary
+logo: photo.jpg
+social:
+  name: Elena de la Hoz
+  links:
+    - https://github.com/edelahoz
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
