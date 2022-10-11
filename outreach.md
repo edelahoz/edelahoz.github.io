@@ -34,4 +34,4 @@ An IFCA program for high schools to bring closer and more participatory science 
  </body>
 </html>
 
-<span style="color:#7f8c8d">  *Answer to the question "¿Por qué los planetas no sales de las órbitas?" by Álvaro S. from the Colegio E.I.P. Mateo Escagedo Salmón, Camargo* </span>
+<span style="color:#7f8c8d">  *Answer to the question "¿Por qué los planetas no se salen de las órbitas?" by Álvaro S. from the Colegio E.I.P. Mateo Escagedo Salmón, Camargo* </span>

@@ -8,7 +8,7 @@ permalink: /research/
 I work on CMB data analysis, with the ultimate goal of understanding the underlying mechanisms of the Universe we live in. Currently, my focus, like most of the CMB community, is on establishing whether the Universe experienced an inflationary phase at its beginning. A smoking gun of this phenomenon would be the detection of primordial gravitational waves (PGWs). These predicted PGWs leave an imprint on the polarization pattern,  B-modes, of the Cosmic Microwave Background (CMB). Their detection is extremely challenging since they are hidden by the emission from other sources, for example:
 - Astrophysical sources that emit in the microwave range. 
 - E- to B-modes conversion due to gravitational lensing. 
-- Systematic error, and instrumental noise. 
+- Systematic errors, and instrumental noise. 
 
 
 The majority of the work that I have conducted so far focuses on the characterization and removal of astrophysical foreground contamination as well as systematic effects to extract the CMB signal. Below, I give examples of those works:
@@ -16,13 +16,13 @@ The majority of the work that I have conducted so far focuses on the characteriz
 
 <h3> <b> <span style="color:#00b1c9"> Forecasts for future CMB ground experiments </span>  </b> </h3>
 
-Initiatives for new CMB experiments require extensive exploratory studies of all the instrumental characteristics parameter space to find the optimal configuration that meets their scientific objectives. Furthermore, funding agencies want proposals that are convincing and well-justified. I applied the B-SeCRET methodology to test several configurations of an envisioned ground-based CMB experiment, operating at low frequencies (10-120 GHz), within the context of the ELFS initiative. We found several arrangements that satisfied the objective of detecting PGWs with a precision of \\(\sigma_r \lesssim 10^{-3}\\). Furthermore, we demonstrated that the proposed experiment helps constrain the foreground parameters in planned missions such as LiteBIRD. As a result, this improves the recovery of the CMB signal and the detection of PGWs with this mission. 
+Initiatives for new CMB experiments require extensive exploratory studies of all the instrumental characteristics parameter space to find the optimal configuration that meets their scientific objectives. Furthermore, funding agencies want proposals that are convincing and well-justified. I applied the B-SeCRET methodology that I developed to test several configurations of an envisioned ground-based CMB experiment, operating at low frequencies (10-120 GHz), within the context of the ELFS initiative. We found several arrangements that satisfied the objective of detecting PGWs with a precision of \\(\sigma_r \lesssim 10^{-3}\\). Furthermore, we demonstrated that the proposed experiment helps constrain the foreground parameters in planned missions such as LiteBIRD. As a result, this improves the recovery of the CMB signal and the detection of PGWs with this mission. 
 
 
 <h3> <b> <span style="color:#00b1c9"> Characterization of low-frequency astrophysical foregrounds </span>  </b> </h3>
 
 
-The importance of a thorough understanding of the mechanisms and modeling of astrophysical foregrounds is twofold: 
+The importance of a thorough understanding of the mechanisms and modeling of astrophysical foregrounds for CMB analyses is twofold: 
 
 1. to reduce residuals due to astrophysical foregrounds in the extracted CMB signal, and
 2. to generate more realistic sky simulations for forecasting studies of future CMB experiments.
