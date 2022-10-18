@@ -6,7 +6,9 @@ permalink: /publications/
 
 <h3> <b> <span style="color:#00b1c9"> 2022 </span>  </b> </h3>
 
-
+- <span style="color:#7f8c8d"> *Robustness of cosmic birefringence measurement against Galactic foreground emission and instrumental systematics* </span>\\
+P. Diego-Palazuelos, E. Martínez-González, P. Vielva, R. B. Barreiro, M. Tristram, <strong>E. de la Hoz</strong>, J. R. Eskilt, Y. Minami, R. M. Sullivan, A. J. Banday, K. M. Górski, R. Keskitalo, E. Komatsu, D. Scott\\
+<a href="https://arxiv.org/abs/2210.07655" style="color:  #2ecc71"> arXiv:2210.07655</a>
 
 - <span style="color:#7f8c8d"> *QUIJOTE scientific results - IV. A northern sky survey at 10–20 GHz with the Multi-Frequency Instrument*</span>\\
 J. A. Rubiño-Martín, F. Guidi, R. T. Génova-Santos, S. E. Harper, D. Herranz, R. J. Hoyland, A. N.
@@ -34,7 +36,7 @@ Submitted to *Monthly Notices of the Royal Astronomical Society*
 from component separation with QUIJOTE-MFI*</span>\\
 <strong>E. de la Hoz</strong>, R. B. Barreiro, P. Vielva, E. Martínez-González, J. A. Rubiño-Martín, B. Casaponsa,
 F. Guidi, M. Ashdown, R. T. Génova-Santos and QUIJOTE collaboration \\
-Submitted to *Monthly Notices of the Royal Astronomical Society*
+Accepted 2022 October 14. *Monthly Notices of the Royal Astronomical Society*. 
 
 - <span style="color:#7f8c8d"> *QUIJOTE scientific results - IX. Radiosources in the QUIJOTE-MFI wide survey maps*</span>\\
 D. Herranz, M. López-Caniego, C. H. López-Caraballo, R. T. Génova-Santos, J. A. Rubiño-Martín,
@@ -45,9 +47,7 @@ Submitted to *Monthly Notices of the Royal Astronomical Society*
 - <span style="color:#7f8c8d"> *Probing Cosmic Inflation with the LiteBIRD Cosmic Microwave Background Polarization Survey*</span>\\
 LiteBIRD collaboration\\
 Submitted to *Progress of Theoretical and Experimental Physics*
-
-
-
+<a href="https://arxiv.org/abs/2202.02773" style="color:  #2ecc71"> arXiv:2202.02773</a>
 
 
 <!-- September -->
